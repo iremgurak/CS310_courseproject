@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "251749379848",
+    "project_id": "dummy-project-22d69",
+    "storage_bucket": "dummy-project-22d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251749379848:android:0d6e37e5b979096e5e06bd",
+        "android_client_info": {
+          "package_name": "dev.etornam.famlicious_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251749379848-rb6337ash6pvs2bc21l7ci4cvf6o3fim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wzmfPyeeVLx-3r9bbD5JMOB-ShTcKEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251749379848-rb6337ash6pvs2bc21l7ci4cvf6o3fim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "251749379848-tmoj5hfknf31ovd2j41lbi2rk9gc7ucc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.etornam.famliciousApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
